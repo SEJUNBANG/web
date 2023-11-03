@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.wrap {
+   height: 8700px;
+}
+
+.box1 {
+    height: 1100px;
+    position: relative;
+}
+
+.pic1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box2{
+    height: 900px;
+    position: relative;
+}
+.inbox2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic2{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+.text1{
+    font-weight: 400;
+    letter-spacing: -0.4;
+    position: relative;
+    font-size: 22px;
+    top: 506px;
+    line-height: 1.5;
+}
+.box3{
+    height: 3600px;
+    position: relative;
+    margin-bottom: 10;
+}
+.inbox3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic3{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.text2{
+    font-weight: 400;
+    letter-spacing: -0.4;
+    position: relative;
+    font-size: 22px;
+    top: 639px;
+    line-height: 1.5;
+    color: white;
+    left: 50px;
+}
+.text3{
+    font-weight: 400;
+    letter-spacing: -0.4;
+    position: relative;
+    font-size: 22px;
+    top: 650px;
+    line-height: 1.5;
+    color: white;
+    right: 120px;
+}
+.text4{
+    font-weight: 400;
+    letter-spacing: -0.4;
+    position: relative;
+    font-size: 22px;
+    top: 706px;
+    line-height: 1.5;
+    left: 70px;
+}
+.box4{
+    height: 1300px;
+    position: relative;
+    margin-top: 0;
+}
+.inbox4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic4{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.text5{
+    font-weight: 400;
+    letter-spacing: -0.4;
+    position: relative;
+    font-size: 22px;
+    top: 650px;
+    line-height: 1.5;
+    color: white;
+}
+.box5 {
+    height: 1800px;
+    position: relative;
+}
+.inbox5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic5 {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.text6{
+    font-weight: 600;
+    letter-spacing: -0.4;
+    position: relative;
+    font-size: 30px;
+    top: 1320px;
+    left: 150px;
+}
+.inbox6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text7{
+    font-weight: 200;
+    position: relative;
+    font-size: 25px;
+    top: 1700px;
+    right: 80px;
+}
